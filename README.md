@@ -31,8 +31,6 @@
 
 :star: Star us on GitHub — it helps!
 
-# Sections 📚
-
 To view a live example, **[click here](https://ashutosh1919.github.io/)**
 
 # Clone and Use 📋
