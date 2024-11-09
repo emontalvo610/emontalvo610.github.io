@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3532b017c68923a5cd14a8696cb006bf",
+    "revision": "9cba0ef96270963cb20dd40f121406be",
     "url": "./index.html"
   },
   {
-    "revision": "65dfc7062580bfbe354b",
-    "url": "./static/css/main.d97e7b3d.chunk.css"
+    "revision": "45a3616732be35ecffb9",
+    "url": "./static/css/main.c13cfa46.chunk.css"
   },
   {
-    "revision": "32b2bb64fa5960ce49d2",
-    "url": "./static/js/2.83a3345e.chunk.js"
+    "revision": "ab3ef1737a11fdf0b040",
+    "url": "./static/js/2.4c2e7b8d.chunk.js"
   },
   {
-    "revision": "65dfc7062580bfbe354b",
-    "url": "./static/js/main.a8791579.chunk.js"
+    "revision": "45a3616732be35ecffb9",
+    "url": "./static/js/main.8e9105ac.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
     "url": "./static/js/runtime-main.fb7e7b0c.js"
   },
   {
+    "revision": "0e9e386ef20e15b170c2365a64e34be9",
+    "url": "./static/media/Accenture.0e9e386e.png"
+  },
+  {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "80b2a6e2388a54e913a5d3d6b7ca2793",
+    "url": "./static/media/DraftKings.80b2a6e2.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -48,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
+    "revision": "2fdb55b7926a1ed37f79233f24789278",
+    "url": "./static/media/ITS.2fdb55b7.png"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
@@ -58,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eaf02c2d0158b6b4b8c2a0a0cf830a04",
     "url": "./static/media/animated_ashutosh.eaf02c2d.png"
+  },
+  {
+    "revision": "8424ee1a4506d7ec11ecee6fee198ffe",
+    "url": "./static/media/animated_einar.8424ee1a.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -190,10 +206,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
-  },
-  {
-    "revision": "571a8584e69ecfbe326c8b8385fbbf54",
-    "url": "./static/media/iiitk_logo.571a8584.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
