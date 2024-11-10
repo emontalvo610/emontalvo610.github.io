@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cba0ef96270963cb20dd40f121406be",
+    "revision": "35620dc40a09da0274ea157e336f1d27",
     "url": "./index.html"
   },
   {
-    "revision": "45a3616732be35ecffb9",
-    "url": "./static/css/main.c13cfa46.chunk.css"
+    "revision": "b144ee6e4693adefc144",
+    "url": "./static/css/main.a143ef56.chunk.css"
   },
   {
-    "revision": "ab3ef1737a11fdf0b040",
-    "url": "./static/js/2.4c2e7b8d.chunk.js"
+    "revision": "1661a09e8ed5864025ec",
+    "url": "./static/js/2.07ab2a7c.chunk.js"
   },
   {
-    "revision": "45a3616732be35ecffb9",
-    "url": "./static/js/main.8e9105ac.chunk.js"
+    "revision": "b144ee6e4693adefc144",
+    "url": "./static/js/main.eef32820.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "80b2a6e2388a54e913a5d3d6b7ca2793",
     "url": "./static/media/DraftKings.80b2a6e2.png"
+  },
+  {
+    "revision": "c21e9be784e52fb29518a5a0db46bfef",
+    "url": "./static/media/DraftkingsSportsbook.c21e9be7.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -78,6 +82,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "./static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "ce9724bf7c94fac66c27f8de3fe803c7",
+    "url": "./static/media/arcee.ce9724bf.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -184,6 +192,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/feelingProud.2936ce95.svg"
   },
   {
+    "revision": "7d4ef8ff0bcfc39a77676928189e91e2",
+    "url": "./static/media/foxyAI.7d4ef8ff.png"
+  },
+  {
     "revision": "fce6080726685cabdb4f75a0d8018325",
     "url": "./static/media/fullstack.fce60807.svg"
   },
@@ -220,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/jsFramework.5b4a6449.svg"
   },
   {
+    "revision": "ed20e69f6791bedd6a42b35ed6379a3f",
+    "url": "./static/media/justamenu.ed20e69f.png"
+  },
+  {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "./static/media/legato_logo.c597fbde.png"
   },
@@ -252,6 +268,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/pwa.71408db7.png"
   },
   {
+    "revision": "c83bb27c6609119434512d5369cbd8fe",
+    "url": "./static/media/qardio.c83bb27c.png"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "./static/media/stanford_logo.2c497738.png"
   },
@@ -270,5 +290,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "bd274a820f96a7f4ac776970e8efcae9",
+    "url": "./static/media/vivagoals.bd274a82.png"
   }
 ]);
