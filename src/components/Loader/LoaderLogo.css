@@ -2,3 +2,14 @@
   height: 305;
   width: 440;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+  background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+}
+.logo {
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.3));
+}

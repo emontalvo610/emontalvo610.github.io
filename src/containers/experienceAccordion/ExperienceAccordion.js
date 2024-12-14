@@ -15,6 +15,7 @@ class ExperienceAccordion extends Component {
                 className="accord-panel"
                 title={section["title"]}
                 key={section["title"]}
+                expanded={true}
                 overrides={{
                   Header: {
                     style: () => ({

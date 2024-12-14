@@ -34,17 +34,34 @@ export default function GithubRepoCard({ repo, theme }) {
           <p className="repo-description" style={{ color: theme.text }}>
             {repo.description}
           </p>
+          <img
+            width="500px"
+            height="300px"
+            src={require(`../../assets/images/${repo["image"]}`)}
+            alt=""
+          />
+          {repo.roles.map((role) => {
+            return (
+              <p
+                className="repo-description"
+                style={{ color: "rgb(85,25,139)" }}
+              >
+                ⚡ {role}
+              </p>
+            );
+          })}
           <div className="repo-details">
             <p
               className="repo-creation-date subTitle"
               style={{ color: theme.secondaryText }}
             >
-              Created on {repo.createdAt.split("T")[0]}
+              Period: {repo.period}
             </p>
-            <ProjectLanguages
+
+            {/* <ProjectLanguages
               className="repo-languages"
               logos={repo.languages}
-            />
+            /> */}
           </div>
           {/* <div className="repo-stats">
           <div className="repo-left-stat">

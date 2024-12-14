@@ -66,11 +66,11 @@
 }
 
 .repo-description {
-  overflow: hidden;
+  /* overflow: hidden; */
   text-align: left;
   display: -webkit-box;
   font-family: "Google Sans Regular";
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   margin-top: 0.8rem;
 }
