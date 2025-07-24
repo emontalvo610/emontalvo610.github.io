@@ -553,7 +553,7 @@ const experience = {
           duration: "Oct 2013 - Feb 2018",
           location: "Miami Florida",
           description:
-            "Developed core features for Netflix's streaming platform, enhancing video delivery performance and personalization for 100M+ global users",
+            "Developed core features for Netflix's streaming platform, significantly enhancing video delivery performance across the board. These improvements directly impacted personalization capabilities for over 100 million users worldwide.",
           color: "#9b1578",
         },
         // {
