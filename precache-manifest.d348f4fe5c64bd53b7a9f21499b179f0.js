@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bba4fd30ea737899ffde138c8a81205d",
+    "revision": "0c522c874f5b60e15c4fe9a9a38c10d0",
     "url": "./index.html"
   },
   {
-    "revision": "cc0e393fde69ae228374",
+    "revision": "84162fc359aa2aca8a19",
     "url": "./static/css/main.a143ef56.chunk.css"
   },
   {
-    "revision": "1661a09e8ed5864025ec",
-    "url": "./static/js/2.07ab2a7c.chunk.js"
+    "revision": "4080f78473bf0eacb8da",
+    "url": "./static/js/2.c015276c.chunk.js"
   },
   {
-    "revision": "cc0e393fde69ae228374",
-    "url": "./static/js/main.ef9ce08a.chunk.js"
+    "revision": "84162fc359aa2aca8a19",
+    "url": "./static/js/main.48a0ea58.chunk.js"
   },
   {
     "revision": "bfba2a34f9928e5e0d9c",
@@ -188,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
+    "revision": "807f9da29bb6cc1b5d88b0ac62c7f1f1",
+    "url": "./static/media/fanatics.807f9da2.png"
+  },
+  {
     "revision": "2936ce95f550e3feef7230ea543a4b60",
     "url": "./static/media/feelingProud.2936ce95.svg"
   },
@@ -248,6 +252,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/muffito_logo.069938a8.png"
   },
   {
+    "revision": "6f298044e66991a9729e62f6ee4e243e",
+    "url": "./static/media/netflix.6f298044.png"
+  },
+  {
     "revision": "95a12a2b8c3149cce2175679755c4b4d",
     "url": "./static/media/nptel_logo.95a12a2b.png"
   },
@@ -286,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "./static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "c109070639870eb67671584d1315b515",
+    "url": "./static/media/tokyo.c1090706.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
