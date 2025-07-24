@@ -372,7 +372,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Osaka University",
+      title: "The university of Tokyo",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "iiitk_logo.png",
       alt_name: "Osaka University",
@@ -384,7 +384,7 @@ const degrees = {
       ],
     },
     {
-      title: "Osaka University",
+      title: "The university of Tokyo",
       subtitle: "M.S. in Computer Science",
       logo_path: "iiitk_logo.png",
       alt_name: "Osaka University",
