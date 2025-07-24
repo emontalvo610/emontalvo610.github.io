@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A results-driven software engineer with a proven track record of developing end-to-end solutions, focusing on scalable and sustainable systems that deliver measurable business impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1yvIx1fvfQbzn610jEMkSc7ScviUW52p5/view?usp=drive_link",
+    "https://drive.google.com/file/d/1P6pipyeyLZFVyPJPwXRYj44niNOXWPse/view?usp=sharing",
 };
 
 const socialMediaLinks = [
@@ -372,10 +372,10 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "The university of Tokyo",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "Osaka University",
+      title: "The University of Tokyo",
+      subtitle: "B.S. in Computer Science",
+      logo_path: "tokyo.png",
+      alt_name: "University of Tokyo",
       duration: "2008 - 2012",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
@@ -384,10 +384,10 @@ const degrees = {
       ],
     },
     {
-      title: "The university of Tokyo",
+      title: "The University of Tokyo",
       subtitle: "M.S. in Computer Science",
-      logo_path: "iiitk_logo.png",
-      alt_name: "Osaka University",
+      logo_path: "tokyo.png",
+      alt_name: "University of Tokyo",
       duration: "2012 - 2013",
       descriptions: [
         "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
@@ -516,7 +516,7 @@ const experience = {
   title: "Experience",
   subtitle: "Company work",
   description:
-    "I have worked with many evolving startups as a Founding Engineer, Designer and Software Architect. I have also worked with some well established companies like Accenture, and DraftKings mostly as a Web Developer. I love sharing my knowledge and experience with the team members",
+    "I have worked with many evolving startups as a Founding Engineer, Designer and Software Architect. I have also worked with some well established companies like Netflix, and Fanatics mostly as a Web Developer. I love sharing my knowledge and experience with the team members",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -525,35 +525,35 @@ const experience = {
       experiences: [
         {
           title: "Senior Software Engineer",
-          company: "IT Solutions Inc.",
-          company_url: "https://www.itsolutions-inc.com/",
-          logo_path: "ITS.png",
+          company: "Deloitte Digital Inc.",
+          company_url: "https://www.deloittedigital.com/us/en.html",
+          logo_path: "deloitte.png",
           duration: "Feb 2023 - Present",
-          location: "Fort Washington, PA ",
+          location: "Seattle, WA ",
           description:
             "Led end to end development, working directly with start-ups to develop intuitive user interfaces for complex projects that integrated AI, ML, and LLM, ensuring seamless visualization and interaction with large datasets across business analytics",
           color: "#000000",
         },
         {
-          title: "Senior Web Developer",
-          company: "DraftKings",
-          company_url: "https://www.draftkings.com/",
-          logo_path: "DraftKings.png",
+          title: "Senior Front-end Developer",
+          company: "Fanatics",
+          company_url: "https://www.fanatics.com/",
+          logo_path: "fanatics.png",
           duration: "Feb 2018 - Feb 2023",
-          location: "Boston, Massachusetts",
+          location: "Jacksonville, Florida",
           description:
             "Engineered a high-performance sports betting platform that handles millions of concurrent users, featuring a sophisticated multi-factor authentication system with biometric security, an intuitive betslip with dynamic odds calculation, instant cashout functionality powered by real-time risk assessment algorithms, and comprehensive live event tracking with sub-second latency.",
           color: "#0879bf",
         },
         {
           title: "Software Engineer",
-          company: "Accenture",
+          company: "Netflix",
           company_url: "https://www.accenture.com/us-en",
-          logo_path: "Accenture.png",
+          logo_path: "netflix.png",
           duration: "Oct 2013 - Feb 2018",
-          location: "San Francisco, California ",
+          location: "Miami Florida",
           description:
-            "Spearheaded the development and implementation of a cutting-edge remote patient monitoring ecosystem that seamlessly integrated IoT biosensors, predictive analytics, and real-time data visualization, enabling healthcare providers to monitor vital signs and chronic conditions remotely, resulting in a 40% reduction in hospital readmissions and a 60% improvement in early intervention response times for high-risk patients.",
+            "Developed core features for Netflix's streaming platform, enhancing video delivery performance and personalization for 100M+ global users",
           color: "#9b1578",
         },
         // {
@@ -742,7 +742,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "(206)-462-5129",
+    subtitle: "(360)-268-8850",
   },
 };
 
