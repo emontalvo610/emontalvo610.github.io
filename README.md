@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Einar Montalvo</h1>
+<h1 align="center">Hi 👋, I'm Einar Mone</h1>
 <h3 align="center">Senior Software Engineer with 10 years professional experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emontalvo610&label=Profile%20views&color=0e75b6&style=flat" alt="emontalvo610" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emontalvo610" alt="einarmontalvo" /></a> </p>
 
-- 🔭 I’m currently working on **IT Solutions**
+- 🔭 I’m currently working on **MindsDB**
 
 - 👨‍💻 All of my projects are available at [https://emontalvo610.github.io/](https://https://emontalvo610.github.io/)
 
-- 📫 Reach out to me at **montalvoeinar669@gmail.com**
+- 📫 Reach out to me at **einar.mone@yahoo.com**
 
 - 📅 Book a chat [here](https://calendly.com/einarmontalvo610/30min)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yvIx1fvfQbzn610jEMkSc7ScviUW52p5/view?usp=drive_link](https://drive.google.com/file/d/1yvIx1fvfQbzn610jEMkSc7ScviUW52p5/view?usp=drive_link])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
